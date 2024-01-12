@@ -1,0 +1,16 @@
+archive
+archive/
+/archive/
+*/archive
+archive/*
+.jpeg
+real_hands/*
+*.png
+*.zip
+*/plan.md
+*.tgz
+*.tar.xz
+creation/archive
+classificationarchive
+*.jpeg
+/archive/
