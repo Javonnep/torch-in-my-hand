@@ -4,8 +4,7 @@ archive/
 */archive
 archive/*
 .jpeg
-real_hands/*
-*.png
+*/.png
 *.zip
 */plan.md
 *.tgz
