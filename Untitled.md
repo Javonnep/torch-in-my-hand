@@ -1,7 +1,4 @@
-This repo was taken from a 2 coursework projects in my universities "Deep Learning" module done under time constraints. The goal of this project was to display my proficiency with Deep Learning, PyTorch, and with advanced deep learning topics like GANs which were state of the art technology just a few years ago. 
-
-- Note: the training set had small reference objects in all images which are the dots you see
-- Note: The training set had almost entirely left hands
+This repo is was taken from a 2 coursework projects in my universities "Deep Learning" module done under time constraints. The goal of this project was to display my proficiency with Deep Learning, PyTorch, and with advanced deep learning topics like GANs which were state of the art technology just a few years ago. ()
 
 # Hand image generation
 
@@ -11,7 +8,7 @@ In this file I go through my normal Deep Learning workflow. I used a Deep Convol
 
 ## `model_selection.ipynb`
 
-In this file I show the process I used to tune my GAN. As you can see below the vast majority of the images look like real hands. I calculate a 90.12% success rate based on observation.
+In this file I show the process I used to tune my GAN. As you can see below the vast majority of the images look like real hands. I calculate a 91.35% success rate based on observation.
 
 ![images](images.png)
 
