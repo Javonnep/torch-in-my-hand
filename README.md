@@ -1,4 +1,4 @@
-This repo was taken from 2 coursework projects in my university's "Deep Learning" module. The projects were done under time constraints. This repo's goal is to display my Deep Learning and PyTorch abilities, including advanced deep learning topics like GANs, which were state-of-the-art technology just a few years ago. 
+This repo's goal is to display my Deep Learning and PyTorch abilities, including advanced deep learning topics like GANs, which were state-of-the-art technology just a few years ago. 
 
 - Note: the training set had small reference objects in all images which are the dots you see
 - Note: The training set had almost entirely left hands
